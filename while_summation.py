@@ -3,7 +3,6 @@ num = int(input("Enter number here :"))
 loop = 0
 total = 0
 while loop <= num:
-    print(loop)
     total = total + loop
     loop = loop + 1
 print(total)
